@@ -6,5 +6,5 @@ scikit-learn
 xgboost
 catboost
 lightgbm
-
--e .
+streamlit
+plotly
